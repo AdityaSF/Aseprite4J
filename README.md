@@ -1,1 +1,1 @@
-# Aseprite Parser
+# Aseprite4J
